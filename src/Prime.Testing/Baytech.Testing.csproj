@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Prime.Conversion\Prime.Conversion.csproj" />
+    <ProjectReference Include="..\Prime.Conversion\Baytech.Conversion.csproj" />
   </ItemGroup>
 
   <ItemGroup>

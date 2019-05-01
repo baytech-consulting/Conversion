@@ -2,15 +2,17 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
-    <PackageId>Prime.Conversion</PackageId>
+    <PackageId>Baytech.Conversion</PackageId>
     <Authors>Bryan Reynolds</Authors>
     <Owners>BayTech Consulting</Owners>
     <Description>Conversion library designed for the Lead Stack platform.</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <Copyright>Copyright 2017 (c) BayTech Consulting. All rights reserved.</Copyright>
+    <Copyright>Copyright 2019 (c) BayTech Consulting. All rights reserved.</Copyright>
     <PackageTags>Conversion, .Net Core, LeadStack</PackageTags>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Version>2.2.0</Version>
+    <AssemblyName>Baytech.Conversion</AssemblyName>
+    <RootNamespace>Baytech.Conversion</RootNamespace>
   </PropertyGroup>
   
   

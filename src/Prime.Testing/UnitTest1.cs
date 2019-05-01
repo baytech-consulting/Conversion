@@ -1,4 +1,4 @@
-namespace Prime.Testing
+namespace Baytech.Testing
 {
     using System.Text.RegularExpressions;
     using Conversion;

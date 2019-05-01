@@ -1,4 +1,4 @@
-﻿namespace Prime.Conversion
+﻿namespace Baytech.Conversion
 {
     using System;
 

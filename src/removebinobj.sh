@@ -1,0 +1,1 @@
+find . -iname ".vs" -o -iname "bin" -o -iname "obj" | xargs rm -rf

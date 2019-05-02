@@ -13,6 +13,7 @@
     <Version>2.2.0</Version>
     <AssemblyName>Baytech.Conversion</AssemblyName>
     <RootNamespace>Baytech.Conversion</RootNamespace>
+    <SignAssembly>false</SignAssembly>
   </PropertyGroup>
   
   

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26228.4
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Baytech.Conversion", "Prime.Conversion\Baytech.Conversion.csproj", "{AE9991ED-727F-4C1F-9B5A-0FEE496356C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Baytech.Conversion", "Baytech.Conversion\Baytech.Conversion.csproj", "{AE9991ED-727F-4C1F-9B5A-0FEE496356C6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Baytech.Testing", "Prime.Testing\Baytech.Testing.csproj", "{A4B33EB1-9DCB-4BED-9A5F-DAD7B881BB83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Baytech.Testing", "Baytech.Testing\Baytech.Testing.csproj", "{A4B33EB1-9DCB-4BED-9A5F-DAD7B881BB83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

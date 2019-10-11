@@ -9,6 +9,7 @@ The following are all external libraries this solution uses.
 Install via NuGet Package Manager UI on Visual Studios
 1. Open Visual Studios and navigate to NuGet Package Manager UI (Tools -> NuGet Package Manager -> Manage NuGet Packages for Solution)
 1. Switch package source to "nuget.org"
+1. Check the "Include prerelease" checkbox
 1. Search (ctrl + L) for Baytech.Conversion
 1. Select the latest version and install
 
